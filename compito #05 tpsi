@@ -1,0 +1,40 @@
+##include <stdio.h>
+
+#define NBITS  4
+#define NCODES 4
+
+void print_code(int code[NCODES][NBITS]) {
+  for(int i=0; i<NCODES; i++){
+
+  }
+  }
+
+
+// Input: due simboli da confrontare
+// Output: distanza di hamming
+  void hamming(int codec[i], int codec[j]) {
+
+
+  //inserisci qui il tuo codice
+
+
+// main: dato un alfabeto, stampa tutte le possibili distanze di hamming tra u sumboli
+//       il programma deve stampare la seguente stringa
+//       La distanza tra <simbolo 1> e <simbolo 2> = <distanza di hamming>
+//
+// Input:
+// Output:
+void main() {
+    int codec[NCODES][NBITS]
+    {
+        {1, 0, 1, 1},
+        {0, 1, 1, 0},
+        {1, 0, 0, 1},
+        {0, 1, 0, 1},
+    }
+    //inserisci qui il tuo codice
+  {for (int i=; i<NCODES; i++){printf_code(codec[1])}
+     for (int j=i +1; j<NCODES -1; j++) ("%d -%d\n", i ,j);
+     codec[1] codec[j]}
+}
+
